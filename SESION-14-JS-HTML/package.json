@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "http-server": "^14.1.1"
+  },
+  "name": "sesion-14-js-html",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "http-server ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
